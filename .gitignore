@@ -1,0 +1,71 @@
+# Logs
+sky-companion-react/logs
+sky-companion-react/*.log
+sky-companion-react/npm-debug.log*
+sky-companion-react/yarn-debug.log*
+sky-companion-react/yarn-error.log*
+sky-companion-react/pnpm-debug.log*
+sky-companion-react/lerna-debug.log*
+
+sky-companion-react/node_modules
+sky-companion-react/dist
+sky-companion-react/dist-ssr
+sky-companion-react/*.local
+
+
+
+# Editor directories and files
+
+# commenting these because I have added some important extensions which needs to be installed in everyone's system to maintain code quality
+# sky-companion-react/.vscode/*
+# sky-companion-react/!.vscode/extensions.json
+sky-companion-react/.idea
+sky-companion-react/.DS_Store
+sky-companion-react/*.suo
+sky-companion-react/*.ntvs*
+sky-companion-react/*.njsproj
+sky-companion-react/*.sln
+sky-companion-react/*.sw?
+
+sky-companion-react/*.env
+sky-companion-react/frontend-output.log
+
+
+
+
+sky-companion-java/target/
+sky-companion-java/!.mvn/wrapper/maven-wrapper.jar
+sky-companion-java/!**/src/main/**/target/
+sky-companion-java/!**/src/test/**/target/
+
+### STS ###
+sky-companion-jav/.apt_generated
+sky-companion-java/.classpath
+sky-companion-java/.factorypath
+sky-companion-java.project
+sky-companion-java/.settings
+sky-companion-java/.springBeans
+sky-companion-java/.sts4-cache
+
+### IntelliJ IDEA ###
+sky-companion-java/.idea
+sky-companion-java/*.iws
+sky-companion-java/*.iml
+sky-companion-java/*.ipr
+
+### NetBeans ###
+sky-companion-java/nbproject/private/
+sky-companion-java/nbbuild/
+sky-companion-java/dist/
+sky-companion-java/nbdist/
+sky-companion-java/.nb-gradle/
+sky-companion-java/build/
+sky-companion-java/!**/src/main/**/build/
+sky-companion-java/!**/src/test/**/build/
+sky-companion-java/backend-output.log
+
+## .DS_Store files
+sky-companion-java/.DS_Store
+sky-companion-java/src/.DS_Store
+.DS_Store
+sky-companion-react/package-lock.json

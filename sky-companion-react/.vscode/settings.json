@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "confirmpassword",
+        "firstname",
+        "lastname",
+        "Newtrip",
+        "signup",
+        "tailwindcss",
+        "tanstack",
+        "toastify",
+        "zustand"
+    ],
+    "conventionalCommits.scopes": [
+        "web",
+        "backend"
+    ],
+    "git.ignoreLimitWarning": true
+}
